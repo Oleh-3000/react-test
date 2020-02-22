@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
-  "author": "Ragnar",
+  "author": "Oleh3000",
   "license": "ISC",
   "dependencies": {
     "react": "^16.12.0",
